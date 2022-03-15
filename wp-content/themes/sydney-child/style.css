@@ -1,0 +1,27 @@
+/*
+Theme Name: Sydney Child
+Theme URI: http://athemes.com/theme/sydney
+Author: aThemes
+Author URI: http://athemes.com
+Template: sydney
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: sydney
+*/
+
+.page .entry-title{
+  display:none;
+}
+.entry-footer {
+  display:none;
+}
+#colophon{
+  text-align: center !important;
+}
+
+/*gallery*/
+.eael-img-accordion .overlay {
+  background-color: initial;
+  opacity: initial;
+}
